@@ -7,7 +7,7 @@ Installation
 ---------
 
     pip install pwgen
-    easy_install install pwgen
+    easy_install pwgen
 
 Basic Usage:
 ------------------
